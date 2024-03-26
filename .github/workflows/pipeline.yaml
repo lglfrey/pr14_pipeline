@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: ['14.x', '16.x']  # Пример использования матрицы для нескольких версий Node.js
+        node-version: ['16.x']  # Пример использования матрицы для нескольких версий Node.js
 
     steps:
     - uses: actions/checkout@v2  # Обновлено до последней версии
@@ -16,9 +16,13 @@ jobs:
       uses: actions/setup-node@v3  # Обновлено до последней версии
       with:
         node-version: ${{ matrix.node-version }}
+        cache: 'npm'
 
     - name: Install dependencies
       run: npm install
+
+    - name: Set permissions for ESLint
+      run: chmod +x ./node_modules/.bin/eslint
 
     - name: Check code style
       run: npm run codestyle
