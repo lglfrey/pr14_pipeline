@@ -3,7 +3,7 @@ name: Node style check
 on:
   push:
     branches:
-      - "news"
+      - "main"
 
 jobs:  
   build:
@@ -20,4 +20,3 @@ jobs:
     
     - name: Install dependenc node
       run: npm --version
-      
