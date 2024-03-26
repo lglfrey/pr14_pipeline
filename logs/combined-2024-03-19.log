@@ -1,0 +1,320 @@
+2024-03-19 23:22:45 info: Model Cheque loaded.
+2024-03-19 23:22:45 info: Model ChequeType loaded.
+2024-03-19 23:22:45 info: Model Country loaded.
+2024-03-19 23:22:45 info: Model File loaded.
+2024-03-19 23:22:45 info: Model FileType loaded.
+2024-03-19 23:22:45 info: Model Journal loaded.
+2024-03-19 23:22:45 info: Model Subscription loaded.
+2024-03-19 23:22:45 info: Model SubscriptionType loaded.
+2024-03-19 23:22:45 info: Model Task loaded.
+2024-03-19 23:22:45 info: Model TaskComment loaded.
+2024-03-19 23:22:45 info: Model TaskJournal loaded.
+2024-03-19 23:22:45 info: Model TaskStatus loaded.
+2024-03-19 23:22:45 info: Model User loaded.
+2024-03-19 23:22:45 info: Model UserRole loaded.
+2024-03-19 23:22:45 info: Model UsersFiles loaded.
+2024-03-19 23:22:45 info: Model UsersSubscriptions loaded.
+2024-03-19 23:22:45 info: Controller archiveController.js loaded.
+2024-03-19 23:22:45 info: Controller authenticationController.js loaded.
+2024-03-19 23:22:45 info: Controller backupController.js loaded.
+2024-03-19 23:22:45 info: Controller chequeController.js loaded.
+2024-03-19 23:22:45 info: Controller chequeTypeController.js loaded.
+2024-03-19 23:22:45 info: Controller countryController.js loaded.
+2024-03-19 23:22:45 info: Controller fileController.js loaded.
+2024-03-19 23:22:45 info: Controller fileTypeController.js loaded.
+2024-03-19 23:22:45 info: Controller journalController.js loaded.
+2024-03-19 23:22:45 info: Controller keyGenController.js loaded.
+2024-03-19 23:22:45 info: Controller subscriptionController.js loaded.
+2024-03-19 23:22:45 info: Controller subscriptionTypeController.js loaded.
+2024-03-19 23:22:45 info: Controller taskCommentController.js loaded.
+2024-03-19 23:22:45 info: Controller taskJournalController.js loaded.
+2024-03-19 23:22:45 info: Controller tasksController.js loaded.
+2024-03-19 23:22:45 info: Controller taskStatusController.js loaded.
+2024-03-19 23:22:45 info: Controller userController.js loaded.
+2024-03-19 23:22:45 info: Controller userRoleController.js loaded.
+2024-03-19 23:22:45 info: Controller usersFilesController.js loaded.
+2024-03-19 23:22:45 info: Controller usersSubscriptionsController.js loaded.
+2024-03-19 23:22:45 info: Server running on http://localhost:3000
+2024-03-19 23:22:46 info: Models sync completed.
+2024-03-19 23:22:57 info: Received request: POST /api/login
+2024-03-19 23:22:57 error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-19 23:31:51 info: Model Cheque loaded.
+2024-03-19 23:31:51 info: Model ChequeType loaded.
+2024-03-19 23:31:51 info: Model Country loaded.
+2024-03-19 23:31:51 info: Model File loaded.
+2024-03-19 23:31:51 info: Model FileType loaded.
+2024-03-19 23:31:51 info: Model Journal loaded.
+2024-03-19 23:31:51 info: Model Subscription loaded.
+2024-03-19 23:31:51 info: Model SubscriptionType loaded.
+2024-03-19 23:31:51 info: Model Task loaded.
+2024-03-19 23:31:51 info: Model TaskComment loaded.
+2024-03-19 23:31:51 info: Model TaskJournal loaded.
+2024-03-19 23:31:51 info: Model TaskStatus loaded.
+2024-03-19 23:31:51 info: Model User loaded.
+2024-03-19 23:31:51 info: Model UserRole loaded.
+2024-03-19 23:31:51 info: Model UsersFiles loaded.
+2024-03-19 23:31:51 info: Model UsersSubscriptions loaded.
+2024-03-19 23:31:51 info: Controller archiveController.js loaded.
+2024-03-19 23:31:51 info: Controller authenticationController.js loaded.
+2024-03-19 23:31:51 info: Controller backupController.js loaded.
+2024-03-19 23:31:51 info: Controller chequeController.js loaded.
+2024-03-19 23:31:51 info: Controller chequeTypeController.js loaded.
+2024-03-19 23:31:51 info: Controller countryController.js loaded.
+2024-03-19 23:31:51 info: Controller fileController.js loaded.
+2024-03-19 23:31:51 info: Controller fileTypeController.js loaded.
+2024-03-19 23:31:51 info: Controller journalController.js loaded.
+2024-03-19 23:31:51 info: Controller keyGenController.js loaded.
+2024-03-19 23:31:51 info: Controller subscriptionController.js loaded.
+2024-03-19 23:31:51 info: Controller subscriptionTypeController.js loaded.
+2024-03-19 23:31:51 info: Controller taskCommentController.js loaded.
+2024-03-19 23:31:51 info: Controller taskJournalController.js loaded.
+2024-03-19 23:31:51 info: Controller tasksController.js loaded.
+2024-03-19 23:31:51 info: Controller taskStatusController.js loaded.
+2024-03-19 23:31:51 info: Controller userController.js loaded.
+2024-03-19 23:31:51 info: Controller userRoleController.js loaded.
+2024-03-19 23:31:51 info: Controller usersFilesController.js loaded.
+2024-03-19 23:31:51 info: Controller usersSubscriptionsController.js loaded.
+2024-03-19 23:31:51 info: Server running on http://localhost:3000
+2024-03-19 23:31:51 info: Models sync completed.
+2024-03-19 23:32:05 info: Received request: POST /api/login
+2024-03-19 23:32:05 error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-19 23:33:18 info: Model Cheque loaded.
+2024-03-19 23:33:18 info: Model ChequeType loaded.
+2024-03-19 23:33:18 info: Model Country loaded.
+2024-03-19 23:33:18 info: Model File loaded.
+2024-03-19 23:33:18 info: Model FileType loaded.
+2024-03-19 23:33:18 info: Model Journal loaded.
+2024-03-19 23:33:18 info: Model Subscription loaded.
+2024-03-19 23:33:18 info: Model SubscriptionType loaded.
+2024-03-19 23:33:18 info: Model Task loaded.
+2024-03-19 23:33:18 info: Model TaskComment loaded.
+2024-03-19 23:33:18 info: Model TaskJournal loaded.
+2024-03-19 23:33:18 info: Model TaskStatus loaded.
+2024-03-19 23:33:18 info: Model User loaded.
+2024-03-19 23:33:18 info: Model UserRole loaded.
+2024-03-19 23:33:18 info: Model UsersFiles loaded.
+2024-03-19 23:33:18 info: Model UsersSubscriptions loaded.
+2024-03-19 23:33:18 info: Controller archiveController.js loaded.
+2024-03-19 23:33:18 info: Controller authenticationController.js loaded.
+2024-03-19 23:33:18 info: Controller backupController.js loaded.
+2024-03-19 23:33:18 info: Controller chequeController.js loaded.
+2024-03-19 23:33:18 info: Controller chequeTypeController.js loaded.
+2024-03-19 23:33:18 info: Controller countryController.js loaded.
+2024-03-19 23:33:18 info: Controller fileController.js loaded.
+2024-03-19 23:33:18 info: Controller fileTypeController.js loaded.
+2024-03-19 23:33:18 info: Controller journalController.js loaded.
+2024-03-19 23:33:18 info: Controller keyGenController.js loaded.
+2024-03-19 23:33:18 info: Controller subscriptionController.js loaded.
+2024-03-19 23:33:18 info: Controller subscriptionTypeController.js loaded.
+2024-03-19 23:33:18 info: Controller taskCommentController.js loaded.
+2024-03-19 23:33:18 info: Controller taskJournalController.js loaded.
+2024-03-19 23:33:18 info: Controller tasksController.js loaded.
+2024-03-19 23:33:18 info: Controller taskStatusController.js loaded.
+2024-03-19 23:33:18 info: Controller userController.js loaded.
+2024-03-19 23:33:18 info: Controller userRoleController.js loaded.
+2024-03-19 23:33:18 info: Controller usersFilesController.js loaded.
+2024-03-19 23:33:18 info: Controller usersSubscriptionsController.js loaded.
+2024-03-19 23:33:18 info: Server running on http://localhost:3000
+2024-03-19 23:33:18 info: Models sync completed.
+2024-03-19 23:33:21 info: Received request: POST /api/login
+2024-03-19 23:33:21 error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-19 23:39:12 info: Model Cheque loaded.
+2024-03-19 23:39:12 info: Model ChequeType loaded.
+2024-03-19 23:39:12 info: Model Country loaded.
+2024-03-19 23:39:12 info: Model File loaded.
+2024-03-19 23:39:12 info: Model FileType loaded.
+2024-03-19 23:39:12 info: Model Journal loaded.
+2024-03-19 23:39:12 info: Model Subscription loaded.
+2024-03-19 23:39:12 info: Model SubscriptionType loaded.
+2024-03-19 23:39:12 info: Model Task loaded.
+2024-03-19 23:39:12 info: Model TaskComment loaded.
+2024-03-19 23:39:12 info: Model TaskJournal loaded.
+2024-03-19 23:39:12 info: Model TaskStatus loaded.
+2024-03-19 23:39:12 info: Model User loaded.
+2024-03-19 23:39:12 info: Model UserRole loaded.
+2024-03-19 23:39:12 info: Model UsersFiles loaded.
+2024-03-19 23:39:12 info: Model UsersSubscriptions loaded.
+2024-03-19 23:39:12 info: Controller archiveController.js loaded.
+2024-03-19 23:39:12 info: Controller authenticationController.js loaded.
+2024-03-19 23:39:12 info: Controller backupController.js loaded.
+2024-03-19 23:39:12 info: Controller chequeController.js loaded.
+2024-03-19 23:39:12 info: Controller chequeTypeController.js loaded.
+2024-03-19 23:39:12 info: Controller countryController.js loaded.
+2024-03-19 23:39:12 info: Controller fileController.js loaded.
+2024-03-19 23:39:12 info: Controller fileTypeController.js loaded.
+2024-03-19 23:39:12 info: Controller journalController.js loaded.
+2024-03-19 23:39:12 info: Controller keyGenController.js loaded.
+2024-03-19 23:39:12 info: Controller subscriptionController.js loaded.
+2024-03-19 23:39:12 info: Controller subscriptionTypeController.js loaded.
+2024-03-19 23:39:12 info: Controller taskCommentController.js loaded.
+2024-03-19 23:39:12 info: Controller taskJournalController.js loaded.
+2024-03-19 23:39:12 info: Controller tasksController.js loaded.
+2024-03-19 23:39:12 info: Controller taskStatusController.js loaded.
+2024-03-19 23:39:12 info: Controller userController.js loaded.
+2024-03-19 23:39:12 info: Controller userRoleController.js loaded.
+2024-03-19 23:39:12 info: Controller usersFilesController.js loaded.
+2024-03-19 23:39:12 info: Controller usersSubscriptionsController.js loaded.
+2024-03-19 23:39:12 info: Server running on http://localhost:3000
+2024-03-19 23:39:13 info: Models sync completed.
+2024-03-19 23:39:16 info: Received request: POST /api/login
+2024-03-19 23:39:16 error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-19 23:39:16 error: uncaughtException: connection encountered an error (self-signed certificate)
+Error: connection encountered an error (self-signed certificate)
+    at module.exports (C:\Users\olp20\Desktop\tuneverse\node_modules\emailjs\smtp\error.js:33:14)
+    at TLSSocket.error (C:\Users\olp20\Desktop\tuneverse\node_modules\emailjs\smtp\response.js:53:5)
+    at TLSSocket.emit (node:events:525:35)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-03-19 23:48:01 info: Model Cheque loaded.
+2024-03-19 23:48:01 info: Model ChequeType loaded.
+2024-03-19 23:48:01 info: Model Country loaded.
+2024-03-19 23:48:01 info: Model File loaded.
+2024-03-19 23:48:01 info: Model FileType loaded.
+2024-03-19 23:48:01 info: Model Journal loaded.
+2024-03-19 23:48:01 info: Model Subscription loaded.
+2024-03-19 23:48:01 info: Model SubscriptionType loaded.
+2024-03-19 23:48:01 info: Model Task loaded.
+2024-03-19 23:48:01 info: Model TaskComment loaded.
+2024-03-19 23:48:01 info: Model TaskJournal loaded.
+2024-03-19 23:48:01 info: Model TaskStatus loaded.
+2024-03-19 23:48:01 info: Model User loaded.
+2024-03-19 23:48:01 info: Model UserRole loaded.
+2024-03-19 23:48:01 info: Model UsersFiles loaded.
+2024-03-19 23:48:01 info: Model UsersSubscriptions loaded.
+2024-03-19 23:48:01 info: Controller archiveController.js loaded.
+2024-03-19 23:48:01 info: Controller authenticationController.js loaded.
+2024-03-19 23:48:01 info: Controller backupController.js loaded.
+2024-03-19 23:48:01 info: Controller chequeController.js loaded.
+2024-03-19 23:48:01 info: Controller chequeTypeController.js loaded.
+2024-03-19 23:48:01 info: Controller countryController.js loaded.
+2024-03-19 23:48:01 info: Controller fileController.js loaded.
+2024-03-19 23:48:01 info: Controller fileTypeController.js loaded.
+2024-03-19 23:48:01 info: Controller journalController.js loaded.
+2024-03-19 23:48:01 info: Controller keyGenController.js loaded.
+2024-03-19 23:48:01 info: Controller subscriptionController.js loaded.
+2024-03-19 23:48:01 info: Controller subscriptionTypeController.js loaded.
+2024-03-19 23:48:01 info: Controller taskCommentController.js loaded.
+2024-03-19 23:48:01 info: Controller taskJournalController.js loaded.
+2024-03-19 23:48:01 info: Controller tasksController.js loaded.
+2024-03-19 23:48:01 info: Controller taskStatusController.js loaded.
+2024-03-19 23:48:01 info: Controller userController.js loaded.
+2024-03-19 23:48:01 info: Controller userRoleController.js loaded.
+2024-03-19 23:48:01 info: Controller usersFilesController.js loaded.
+2024-03-19 23:48:01 info: Controller usersSubscriptionsController.js loaded.
+2024-03-19 23:48:01 info: Server running on http://localhost:3000
+2024-03-19 23:48:01 info: Models sync completed.
+2024-03-19 23:48:04 info: Received request: POST /api/login
+2024-03-19 23:48:04 error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-19 23:55:50 info: Received request: POST /api/login
+2024-03-19 23:55:50 error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-19 23:56:38 info: Model Cheque loaded.
+2024-03-19 23:56:38 info: Model ChequeType loaded.
+2024-03-19 23:56:38 info: Model Country loaded.
+2024-03-19 23:56:38 info: Model File loaded.
+2024-03-19 23:56:38 info: Model FileType loaded.
+2024-03-19 23:56:38 info: Model Journal loaded.
+2024-03-19 23:56:38 info: Model Subscription loaded.
+2024-03-19 23:56:38 info: Model SubscriptionType loaded.
+2024-03-19 23:56:38 info: Model Task loaded.
+2024-03-19 23:56:38 info: Model TaskComment loaded.
+2024-03-19 23:56:38 info: Model TaskJournal loaded.
+2024-03-19 23:56:38 info: Model TaskStatus loaded.
+2024-03-19 23:56:38 info: Model User loaded.
+2024-03-19 23:56:38 info: Model UserRole loaded.
+2024-03-19 23:56:38 info: Model UsersFiles loaded.
+2024-03-19 23:56:38 info: Model UsersSubscriptions loaded.
+2024-03-19 23:56:38 info: Controller archiveController.js loaded.
+2024-03-19 23:56:38 info: Controller authenticationController.js loaded.
+2024-03-19 23:56:38 info: Controller backupController.js loaded.
+2024-03-19 23:56:38 info: Controller chequeController.js loaded.
+2024-03-19 23:56:38 info: Controller chequeTypeController.js loaded.
+2024-03-19 23:56:38 info: Controller countryController.js loaded.
+2024-03-19 23:56:38 info: Controller fileController.js loaded.
+2024-03-19 23:56:39 info: Controller fileTypeController.js loaded.
+2024-03-19 23:56:39 info: Controller journalController.js loaded.
+2024-03-19 23:56:39 info: Controller keyGenController.js loaded.
+2024-03-19 23:56:39 info: Controller subscriptionController.js loaded.
+2024-03-19 23:56:39 info: Controller subscriptionTypeController.js loaded.
+2024-03-19 23:56:39 info: Controller taskCommentController.js loaded.
+2024-03-19 23:56:39 info: Controller taskJournalController.js loaded.
+2024-03-19 23:56:39 info: Controller tasksController.js loaded.
+2024-03-19 23:56:39 info: Controller taskStatusController.js loaded.
+2024-03-19 23:56:39 info: Controller userController.js loaded.
+2024-03-19 23:56:39 info: Controller userRoleController.js loaded.
+2024-03-19 23:56:39 info: Controller usersFilesController.js loaded.
+2024-03-19 23:56:39 info: Controller usersSubscriptionsController.js loaded.
+2024-03-19 23:56:39 info: Server running on http://localhost:3000
+2024-03-19 23:56:39 info: Models sync completed.
+2024-03-19 23:56:43 info: Received request: POST /api/login
+2024-03-19 23:56:43 error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login

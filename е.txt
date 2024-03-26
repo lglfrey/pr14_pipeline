@@ -1,0 +1,33 @@
+const Journal = require('../models/journal');
+
+const requestLogger = async (req, res, next) => {
+    try {
+        // Логируем информацию о запросе в таблице Journal
+        await Journal.create({
+            content: `Request method: ${req.method}, URL: ${req.originalUrl}`,
+            logicalDelete: false,
+        });
+
+        next();
+    } catch (error) {
+        console.error('Error logging request in Journal:', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+};
+
+const errorLogger = async (err, req, res, next) => {
+    try {
+        // Логируем информацию об ошибке в таблице Journal
+        await Journal.create({
+            content: `Error: ${err.message}, Stack Trace: ${err.stack}, Request method: ${req.method}, URL: ${req.originalUrl}`,
+            logicalDelete: false,
+        });
+
+        next(err);
+    } catch (error) {
+        console.error('Error logging error in Journal:', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+};
+
+module.exports = { requestLogger, errorLogger };

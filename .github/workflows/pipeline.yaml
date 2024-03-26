@@ -1,0 +1,23 @@
+name: Node style check
+
+on:
+  push:
+    branches:
+      - "news"
+
+jobs:  
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Git clone repo
+      uses: actions/checkout@v2
+
+    - name: Set versios node
+      uses: actions/setup-node@v2
+      with:
+        node-version: '12.x'
+    
+    - name: Install dependenc node
+      run: npm --version
+      

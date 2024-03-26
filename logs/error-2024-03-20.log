@@ -1,0 +1,616 @@
+2024-03-20 00:02:57 [error] error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 00:05:15 [error] error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 00:09:19 [error] error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 00:10:03 [error] error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 00:10:52 [error] error: Error: Invalid authentication data, User: olegoneitral, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:12:59 [error] error: Error: Invalid authentication data, User: admin, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:38 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:39 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:40 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:41 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:42 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:43 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:44 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:45 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:46 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:47 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:48 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:49 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:50 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:51 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:52 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:53 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:54 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:55 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:56 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:57 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:58 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:14:59 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:00 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:01 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:02 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:03 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:04 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:05 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:06 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:07 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:08 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:09 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:10 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:11 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:12 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:13 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:14 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:15 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:16 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:17 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:18 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:20 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:21 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:22 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:23 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:24 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:25 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:26 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:27 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
+2024-03-20 16:15:28 [error] error: Error: Invalid authentication data, User: Unknown, IP: ::1, Stack Trace: Error: Invalid authentication data
+    at C:\Users\olp20\Desktop\tuneverse\controllers\authenticationController.js:32:28
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\olp20\Desktop\tuneverse\node_modules\express\lib\router\index.js:47:12), Request method: POST, URL: /api/login
