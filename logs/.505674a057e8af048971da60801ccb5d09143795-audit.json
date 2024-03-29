@@ -19,6 +19,11 @@
             "date": 1710973595272,
             "name": "logs\\verbose-2024-03-21.log",
             "hash": "36cd4b51dc66ae58c8b69586515f8fef3d5417cdd0dea32f9cb2d2a08299fbe6"
+        },
+        {
+            "date": 1711502643851,
+            "name": "logs\\verbose-2024-03-27.log",
+            "hash": "4fd302efa7e936da6da04c423a1b017d5798bedcdb0f53d37d650b2ee47fe3a0"
         }
     ],
     "hashType": "sha256"

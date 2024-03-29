@@ -19,6 +19,11 @@
             "date": 1710973595285,
             "name": "logs\\silly-2024-03-21.log",
             "hash": "4af9f94b88ef87f2adc61ffe073c115e67a184f44340bf9b0f141b3f466e6710"
+        },
+        {
+            "date": 1711502643872,
+            "name": "logs\\silly-2024-03-27.log",
+            "hash": "d0d152e0c73aca822dd88b2249777ab198ebb78db728fcbd03c697e241ea4052"
         }
     ],
     "hashType": "sha256"
